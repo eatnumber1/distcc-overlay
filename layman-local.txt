@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<layman>
+  <overlay
+    type = "git"
+    src  = "git://github.com/eatnumber1/distcc-overlay.git"
+    status = "unofficial"
+    name = "distcc-overlay"/>
+</layman>
